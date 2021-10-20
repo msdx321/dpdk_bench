@@ -1,0 +1,3 @@
+[submodule "dpdk-pingpong"]
+	path = dpdk-pingpong
+	url = git@github.com:msdx321/dpdk-pingpong.git
