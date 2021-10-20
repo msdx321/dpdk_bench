@@ -1,3 +1,6 @@
 [submodule "dpdk-pingpong"]
 	path = dpdk-pingpong
 	url = git@github.com:msdx321/dpdk-pingpong.git
+[submodule "linux_client"]
+	path = linux_client
+	url = git@github.com:msdx321/Linux_ben.git
