@@ -1,0 +1,3 @@
+scripts/*.log
+dpdk-pingpong/out/
+linux_client/out/
